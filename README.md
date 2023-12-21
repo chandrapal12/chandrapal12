@@ -1,5 +1,3 @@
-![Coding enthusiast](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1703/karpenkoilia170300054/74737038-creative-illustration-of-a-web-banner-for-coding-modern-linear-concept-for-programming-.jpg)
-
 # Hi there 👋, my name is Chandra Pal Keshari
 ## Coding enthusiast
 
