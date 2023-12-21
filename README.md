@@ -1,14 +1,14 @@
 ![Coding enthusiast](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1703/karpenkoilia170300054/74737038-creative-illustration-of-a-web-banner-for-coding-modern-linear-concept-for-programming-.jpg)
 
-# Hi there 👋, my name is Chandra Pal
+# Hi there 👋, my name is Chandra Pal Keshari
 ## Coding enthusiast
 
 
-Coding enthusiast | Python | HTML | CSS | Problem Solving | Upskilling myself 😀
+Aspiring developer | AI & ML Enthusiast | Problem Solving | Upskilling myself 😀
 
 Skills: Python / HTML / CSS / SQL
 
-- 🌱 I’m currently learning web development, responsive design, JavaScript. 
+- 🌱 I’m learning web development, responsive design, javascript, and frameworks. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chandrapal12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/im_cpk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@im_cpk)  
