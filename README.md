@@ -6,7 +6,7 @@
 
 Aspiring developer | AI & ML Enthusiast | Problem Solving | Upskilling myself 😀
 
-Skills: Python / HTML / CSS / SQL
+
 
 - 🌱 I’m learning web development, responsive design, javascript, and frameworks. 
 
